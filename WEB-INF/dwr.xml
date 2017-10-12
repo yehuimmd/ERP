@@ -1,0 +1,67 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dwr PUBLIC "-//GetAhead Limited//DTD Direct Web Remoting 3.0//EN" "http://getahead.org/dwr/dwr30.dtd">
+<dwr>
+	<allow>
+		<create creator="spring" javascript="gameGroupService">
+			<param name="beanName" value="gameGroupService" />
+		</create>
+		
+		<create creator="spring" javascript="gameGroupMemberService">
+			<param name="beanName" value="gameGroupMemberService" />
+		</create>
+		
+		<create creator="spring" javascript="loginService">
+			<param name="beanName" value="loginService" />
+		</create>
+
+		<create creator="spring" javascript="adAndOrderRefreshService">
+			<param name="beanName" value="adAndOrderRefreshService" />
+		</create>
+	</allow>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dwr PUBLIC "-//GetAhead Limited//DTD Direct Web Remoting 3.0//EN" "http://getahead.org/dwr/dwr30.dtd">
+<dwr>
+	<allow>
+		<create creator="spring" javascript="gameGroupService">
+			<param name="beanName" value="gameGroupService" />
+		</create>
+		
+		<create creator="spring" javascript="gameGroupMemberService">
+			<param name="beanName" value="gameGroupMemberService" />
+		</create>
+		
+		<create creator="spring" javascript="loginService">
+			<param name="beanName" value="loginService" />
+		</create>
+
+		<create creator="spring" javascript="adAndOrderRefreshService">
+			<param name="beanName" value="adAndOrderRefreshService" />
+		</create>
+	</allow>
+>>>>>>> origin/english
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dwr PUBLIC "-//GetAhead Limited//DTD Direct Web Remoting 3.0//EN" "http://getahead.org/dwr/dwr30.dtd">
+<dwr>
+	<allow>
+		<create creator="spring" javascript="gameGroupService">
+			<param name="beanName" value="gameGroupService" />
+		</create>
+		
+		<create creator="spring" javascript="gameGroupMemberService">
+			<param name="beanName" value="gameGroupMemberService" />
+		</create>
+		
+		<create creator="spring" javascript="loginService">
+			<param name="beanName" value="loginService" />
+		</create>
+
+		<create creator="spring" javascript="adAndOrderRefreshService">
+			<param name="beanName" value="adAndOrderRefreshService" />
+		</create>
+	</allow>
+>>>>>>> d68c673aab6863149f47c1fdc1753b5030acc173
+</dwr> 

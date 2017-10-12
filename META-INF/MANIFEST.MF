@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Manifest-Version: 1.0
+Class-Path: 
+
+=======
+Manifest-Version: 1.0
+Class-Path: 
+
+>>>>>>> origin/english
+=======
+Manifest-Version: 1.0
+Class-Path: 
+
+>>>>>>> d68c673aab6863149f47c1fdc1753b5030acc173
